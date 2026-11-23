@@ -1,0 +1,9 @@
+# Visual Studio local settings and cache
+.vs/
+*.vcxproj.user
+
+# Build output and intermediates
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
